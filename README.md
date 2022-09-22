@@ -5,11 +5,10 @@ I wrote this repo to have a recap of course topics each week, and the required w
 
 #### Tips if you're taking the course:
 1. Personal preference, I used VS Code on desktop, the browser version seems slower. 
-2. Go through the videos while attempting the lecture with the instructor. 
-3. Try to code how his way. 
-4. Try to break the program. 
-5. Have fun incorporating your own style to the problem sets.
-6. Please do not submit my answers as yours, gentle reminder for the course's [academic honesty policy here](https://cs50.harvard.edu/python/2022/honesty/)
+2. Go through the videos while attempting the lecture examples with the instructor. (not just passively watching the video) 
+3. Try different ways to write the program, or even try break the program.
+4. Have fun incorporating your own style to the problem sets, many ways to skin the proverbial cat.
+5. Please do not submit my answers as yours, gentle reminder for the course's [academic honesty policy here](https://cs50.harvard.edu/python/2022/honesty/)
 <br><br>
 
 
