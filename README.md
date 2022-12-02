@@ -1,7 +1,10 @@
-# CS50P
+# Harvard University's OpenCourseWare - CS50P
 This is Tyler's answers to the problem sets for [CS50P (2022) Harvard OpenCourseWare](https://cs50.harvard.edu/python/2022/).
-I wrote this repo to have a recap of course topics each week, and the required work for problem sets.
+I wrote this repo to have a recap of course topics each week, and the required work for problem sets.<br><br>
+(submit and receive a score of at least 70% on each of this course’s problems as well as its final project for this swanky certificate)
 
+![Tylers's CS50 Python certifcate.](https://certificates.cs50.io/d8d2d726-c0a4-4606-a939-44beed8d0eec.png?size=letter "Tyler's cs50p cert")
+Link to official cert [here](https://cs50.harvard.edu/certificates/d8d2d726-c0a4-4606-a939-44beed8d0eec)
 
 #### Tips if you're taking the course:
 1. Personal preference, I used VS Code on desktop, the browser version seems slower. 
